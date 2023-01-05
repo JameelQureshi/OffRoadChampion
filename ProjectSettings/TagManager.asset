@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Node
+  - Road
+  - Cell
+  - bus_2
+  - Buttons
+  - IaCar
+  - Blocks
+  - Marcador
+  - Stop
+  - bilal
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - Bus_holder_1
+  - bus_holder_2
+  - bus_holder_3
+  - bus_holder_4
+  - find
+  - Green_Collider
+  - particles
+  - Cam_Collider
+  - COIN
+  - FinishLine
+  - spawner
+  - Cam
+  - Ref
+  - Completion
+  - RCCCanvas
+  - Silver
+  - Level
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Particles
+  - Water
+  - UI
+  - 
+  - RCC
+  - Terrain
+  - Node
+  - Road
+  - Cell
+  - MiniMapLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
